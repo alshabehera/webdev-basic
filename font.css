@@ -1,0 +1,29 @@
+
+h1{
+    color:blue;
+    text-align:center;
+}
+
+#first{
+    color:#099F09;
+    font-size: 150%;
+    border: 2px solid rgb(238, 255, 0);
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    }
+
+.second{
+    color: #987655;
+    border: 2px solid rgb(229, 255, 0);
+    font-variant: small-caps;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    color: rgb(255, 47, 109);
+    font-style:italic;
+}
+li{
+    color:darkgoldenrod;
+}
