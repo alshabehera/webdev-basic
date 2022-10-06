@@ -1,0 +1,30 @@
+h3 {
+    color: rgb(165, 77, 42);
+    background-color: rgb(0, 255, 179);
+    width: 400px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    font-family: Lucida Handwriting;
+}
+
+#first,
+.second,
+#third,
+#forth,
+#fifth {
+    color: blue;
+    border: 2px solid aqua;
+    border-radius: 5px;
+    font-family: Lucida Handwriting;
+    font-size: 11px;
+}
+
+div {
+    height: 200px;
+    background-image: url('https://www.geeksforgeeks.org/wp-content/uploads/titleShadow-768x256.png' );
+    background-repeat: no-repeat;
+    background-position: center;
+}
