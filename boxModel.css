@@ -1,0 +1,21 @@
+.container{
+    background-color: rgb(209, 177, 230);
+    border: 2px solid rgb(85, 9, 85);
+    border-radius: 23px;
+    padding: 23px 56px 6px 78px;
+    margin: 20px;
+    width:600px;
+}
+.top{
+    background-image: url("https://www.simplilearn.com/ice9/free_resources_article_thumb/CSS-Box-Model.png");
+    background-size: contain;
+  width: auto;
+  height: 200px;
+  border: 2px solid;
+  color: pink;
+  resize: both;
+  background-repeat: no-repeat;
+  background-position: right;
+ 
+  
+}
