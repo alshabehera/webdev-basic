@@ -1,0 +1,15 @@
+div{
+    width:30%;
+    font-size: 20px;
+    background-color: aqua;
+    height:400px;
+    display:inline-block;
+    overflow: scroll;
+}
+
+span{
+    width:40%;
+    float:right;
+}
+    /*visibility:hidden;
+
