@@ -1,0 +1,20 @@
+a{
+    display:block;
+    font-weight: bold;
+    color:#ffffff;
+    background:#000060;
+    width: 200px;
+    text-align:center;
+    padding:4px;
+    margin:4px;
+}
+a:hover{
+    background: #b3b3bb;
+    color:#0006cc;
+}
+a:focus{
+    background:violet;
+}
+a:active{
+    background: red;
+}
