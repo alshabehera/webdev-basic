@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRANSITION</title>
+    <style>div{
+        color:#000000;
+        background: #2db34a;
+        line-height:200px;
+        text-align: center;
+        width:250px;
+        height:200px;
+        border-radius: 6px;
+        transition-property:color,width,background,border-radius ;
+        transition-duration: .5s;
+        transition-timing-function: linear ;
+        transition-delay: .5s;}
+        div:hover{
+            color:#ffffff;
+            width: 350px;
+            background: #2D31B3;
+            border-radius: 50%;
+        }
+        div:active{
+            color:#380970;
+            width: 150px;
+            background:#00DDB3;
+        }
+
+        </style>
+</head>
+<body>
+    <div>TRANSITION</div>
+</body>
+</html>
