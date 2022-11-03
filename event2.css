@@ -1,0 +1,10 @@
+.closed{
+    display:none;
+}
+.opened{
+    display:block;
+
+}
+button{ width:200px;
+    background-color: yellowgreen;
+}
