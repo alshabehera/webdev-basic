@@ -24,3 +24,13 @@ y="6"
 console.log(x+y)
 console.log(typeof x)
 
+//comparison operator
+
+let p =4;
+q="4"
+console.log("p==q is",p==q)
+console.log("p!=q is",p!=q)
+console.log("p===q is",p===q)
+console.log("p!==q is",p!==q)
+
+
